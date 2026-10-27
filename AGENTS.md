@@ -35,7 +35,7 @@
 
 ## GitHub
 
-目标仓库：`https://github.com/ScarfQian/research-adventure`，公开。
+仓库：`https://github.com/ScarfQian/research-adventure`，已建立且为公开仓库。
 
 用户于 2026-10-27 授权建立本地文件夹和 GitHub 新项目。本次可初始化 `main` 并上传设计文件。后续代码修改在功能／修复分支完成；提交、推送和创建 PR 按当次用户授权执行。合并 `main`、开启自动合并、发布可玩页面不得从普通本地开发请求推定授权。不强推、不改写历史、不删除旧版本。
 

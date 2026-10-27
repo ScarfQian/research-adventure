@@ -16,8 +16,11 @@
   "changelog": "CHANGELOG.md",
   "repository": "https://github.com/ScarfQian/research-adventure",
   "repository_delivery": {
-    "status": "prepared-not-published",
-    "branch": "main"
+    "status": "initialized-and-pushed",
+    "branch": "main",
+    "visibility": "public",
+    "initial_design_commit": "fbc564b537a3515f2603bf601d402a1108a8fb3f",
+    "date": "2026-10-27"
   },
   "deployment": {
     "status": "not-configured",
@@ -28,7 +31,7 @@
   "verification": {
     "document_links": "checked",
     "design_consistency": "reviewed-against-user-route-examples-not-game-tested",
-    "remote_readback": "pending",
+    "remote_readback": "repository-files-and-design-version-confirmed",
     "game_tests": "not-run-no-game-implementation"
   }
 }

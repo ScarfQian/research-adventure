@@ -9,7 +9,7 @@
 
 用户要求“先设计开发计划，先把文件夹和 GitHub 项目建立好”。当前版本 **0.0.1**，修改编号 **20261027-001**。只有设计和维护文档，没有 `index.html`、游戏代码、生成美术、测试依赖或可玩网页。
 
-综合方案为 [开发计划 V1](261027-科研大冒险设计与开发计划.md)。实际执行记录只写入 [DEVELOPMENT.md](DEVELOPMENT.md)。GitHub 目标是公开仓库 `ScarfQian/research-adventure`，首次初始化 main；交付状态以 `version.json` 和开发日志的实际核对记录为准。
+综合方案为 [开发计划 V1](261027-科研大冒险设计与开发计划.md)。实际执行记录只写入 [DEVELOPMENT.md](DEVELOPMENT.md)。公开仓库 [ScarfQian/research-adventure](https://github.com/ScarfQian/research-adventure) 已建立，0.0.1 设计文件已上传至 `main`；已读回版本和文件清单，确认未配置 Pages。首次设计提交为 `fbc564b537a3515f2603bf601d402a1108a8fb3f`，其后的交付记录修订不增加游戏版本号。
 
 ## 已确定的用户方向
 

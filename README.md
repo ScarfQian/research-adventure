@@ -28,7 +28,7 @@
 
 本地项目目录：`/Users/qianweijin/Library/Mobile Documents/com~apple~CloudDocs/10-开发/2-Game/3-科研大冒险`。
 
-GitHub 仓库目标：[ScarfQian/research-adventure](https://github.com/ScarfQian/research-adventure)。本轮上传设计文档，不发布可玩页面；实际创建与上传结果记录在开发日志中。
+GitHub 公开仓库：[ScarfQian/research-adventure](https://github.com/ScarfQian/research-adventure)。0.0.1 设计文件已上传至 `main` 并读回核对；尚未配置 GitHub Pages，没有可玩页面。实际创建与上传记录见开发日志。
 
 与 `1-鹈鹕骑士`、`2-鹈鹕骑士-波次远征` 分开维护。没有复制旧游戏代码、存档或美术，后续需要复用时再登记来源与资产编号。当前不安装依赖、不使用 Skill、不运行游戏测试。
 
